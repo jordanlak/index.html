@@ -4,30 +4,29 @@ git clone <https://github.com/Rize-Education-CSC/create-your-own-personal-web-pa
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name</title>
+    <title>About Lakara Jordan</title>
 </head>
 <body>
 
-    <h1>Your Name</h1>
+    <h1>Lakara Jordan</h1>
     
-    <h2>About Me</h2>
-    <p>A brief introduction about yourself.</p>
+    <h2>Introduction</h2>
+    <p>My name is Lakara Jordan, I attend OKWU, and I play basketball.</p>
 
-    <h2>My Hobby</h2>
-    <p>A paragraph about your favorite hobby or interest.</p>
+    <h3>My Favorite Hobbies and Interests</h3>
+    <p>My favorite hobbies and interests include doing puzzles and going fishing.</p>
 
-    <h2>My Favorite Books</h2>
+    <h3>My Favorite Books</h3>
     <ol>
-        <li>Book 1</li>
-        <li>Book 2</li>
-        <li>Book 3</li>
+        <li>Diary of a Wimpy Kid</li>
+        <li>The Walking Dead</li>
     </ol>
 
-    <h2>My Least Favorite Movies</h2>
+    <h3>My Least Favorite Movies</h3>
     <ul>
-        <li>Movie 1</li>
-        <li>Movie 2</li>
-        <li>Movie 3</li>
+        <li>Titanic</li>
+        <li>Jumanji</li>
+        <li>Batman</li>
     </ul>
 
 </body>
